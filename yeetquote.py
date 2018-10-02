@@ -1,5 +1,4 @@
 import random
-import ggame
 pn = ["Colin","Catrin","Carlton","Jackson","Celeste","Sara","Jessica","Aidan","Olivia","Jack","Ethan"]
 vb = ["is", "was", "shall be"]
 adj = ["gay", "godlike", "mega-gay"]
