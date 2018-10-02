@@ -13,4 +13,3 @@ sentrand = random.randint(0,2)
 print (pn[pnr], vb[vbr], adj[adjr])
 '''
 #please forget about this failed abortion of code
-
